@@ -1,5 +1,6 @@
 Hi 👋 I'm Felix
 ----------
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72893613/166153672-98e02ba3-dcd9-4f8e-a98e-65a625b74c7e.gif" width="200"/>
 
 ### Software Developer?
 

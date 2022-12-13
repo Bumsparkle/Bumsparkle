@@ -43,4 +43,4 @@ Hi 👋 I'm Felix
 
 <p align="left"> <a href="https://discord.com/users/bumsparkle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/bumsparkle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/felixarkle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-<! --- created using https://profilinator.rishav.dev/ >
+<! --- created using https://profilinator.rishav.dev/ --- >

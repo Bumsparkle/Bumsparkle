@@ -6,8 +6,8 @@ Hi 👋 I'm Felix
 
 "Interesting description about myself incoming"
 
-* 📖 Studying Computer Science
-* 📍  Based in the UK
+* 📖 Gap year then going to study Computer Science
+* 📍 Based in the UK
 * ✉️  You can contact me at [felixarkle@icloud.com](mailto:felixarkle@icloud.com)
 * 🔐  Currently collaborating on... it's a secret 
 * 💡 Reach out to me for your next project

@@ -1,15 +1,13 @@
-Hi 👋 I'm Felix
 ----------
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72893613/166153672-98e02ba3-dcd9-4f8e-a98e-65a625b74c7e.gif" width="200"/>
 
-### Software Developer?
+### Computer Science Student 
 
 "Interesting description about myself incoming"
 
-* 📖 Studying Computer Science
+* 📖 Studying at Newcastle Univeristy
 * 📍 Based in the UK
 * ✉️  You can contact me at [felixarkle@icloud.com](mailto:felixarkle@icloud.com)
-* 🔐  Currently collaborating on... it's a secret 
 * 💡 Reach out to me for your next project
 
 ### Skills

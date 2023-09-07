@@ -1,9 +1,6 @@
-----------
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72893613/166153672-98e02ba3-dcd9-4f8e-a98e-65a625b74c7e.gif" width="200"/>
 
 ### Computer Science Student 
-
-"Interesting description about myself incoming"
 
 * 📖 Studying at Newcastle Univeristy
 * 📍 Based in the UK
@@ -29,8 +26,6 @@
 ### Working On
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="36" height="36" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="36" height="36" /></a>  

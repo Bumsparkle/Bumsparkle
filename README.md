@@ -20,17 +20,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://ethereum.org/en/](https://www.ibm.com/quantum/qiskit" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/File:Qiskit-Logo.svg" width="36" height="36" alt="Ethereum" /></a>
-
-
-### Working On
-
-<p align="left">
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="36" height="36" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="36" height="36" /></a>  
-</div>
-</p>
+<a href="https://www.ibm.com/quantum/qiskit" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/File:Qiskit-Logo.svg" width="36" height="36" alt="Qiskit" /></a>
 
 ### Socials
 

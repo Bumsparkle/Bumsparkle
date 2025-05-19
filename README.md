@@ -1,9 +1,7 @@
 ### Computer Science Student 
 
-* 📖 Studying at Newcastle Univeristy
-* 📍 Based in the UK
+* 📖 2nd Year Studying at Newcastle Univeristy
 * ✉️  You can contact me at [felixarkle@icloud.com](mailto:felixarkle@icloud.com)
-* 💡 Reach out to me for your next project
 
 ### Skills
 

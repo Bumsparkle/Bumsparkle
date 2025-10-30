@@ -1,6 +1,6 @@
 ### Computer Science Student 
 
-* 📖 2nd Year studying at Newcastle Univeristy
+* 📖 3rd Year studying at Newcastle Univeristy
 * ✉️ You can contact me at [felixarkle@icloud.com](mailto:felixarkle@icloud.com)
 * ⚛️ Currently interested in quantum computing and machine learning
 
